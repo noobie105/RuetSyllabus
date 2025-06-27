@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:fillViewport="true"
+    tools:context=".cse12">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textAllCaps="false"
+            android:textStyle="bold|italic"
+            android:text="CSE 1200\nAnalytical Programming\nContact hours/week: 3/2\nCredits: 0.75\n"
+            android:textColor="@color/black"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/cse_1200"
+            android:textStyle="normal"
+            android:textSize="12sp"
+            android:textColor="@color/black"
+            android:textAllCaps="false"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textAllCaps="false"
+            android:textStyle="bold|italic"
+            android:text="CSE 1201\nData Structure\nContact hours/week: 3/2\nCredits: 0.75\n"
+            android:textColor="@color/black"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/cse_1201"
+            android:textAllCaps="false"
+            android:textColor="@color/black"
+            android:textSize="12sp"
+            android:textStyle="normal" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textAllCaps="false"
+            android:textStyle="bold|italic"
+            android:text="CSE 1202\nSessional based on CSE 1201\nContact hours/week: 3\nCredits: 1.5\n"
+            android:textColor="@color/black"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sessional based on the theory course CSE 1201\n\n"
+            android:textStyle="normal"
+            android:textSize="12sp"
+            android:textColor="@color/black"
+            android:textAllCaps="false"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textAllCaps="false"
+            android:textStyle="bold|italic"
+            android:text="CSE 1203\nObject Oriented Programming\nContact hours/week: 3\nCredits: 1.5\n"
+            android:textColor="@color/black"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/cse_1203"
+            android:textStyle="normal"
+            android:textSize="12sp"
+            android:textColor="@color/black"
+            android:textAllCaps="false"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textAllCaps="false"
+            android:textStyle="bold|italic"
+            android:text="CSE 1204\nSessional based on CSE 1203\nContact hours/week: 3\nCredits: 1.5\n"
+            android:textColor="@color/black"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sessional based on the theory course CSE 1203\n\n"
+            android:textStyle="normal"
+            android:textSize="12sp"
+            android:textColor="@color/black"
+            android:textAllCaps="false"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textAllCaps="false"
+            android:textStyle="bold|italic"
+            android:text="Math 1213\nCo-ordinate Geometry and Ordinary Differential Equation\nContact hours/week: 3\nCredits: 1.5\n"
+            android:textColor="@color/black"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/math_1213"
+            android:textStyle="normal"
+            android:textSize="12sp"
+            android:textColor="@color/black"
+            android:textAllCaps="false"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textAllCaps="false"
+            android:textStyle="bold|italic"
+            android:text="Hum 1213\nEconomics, Government and Sociology\nContact hours/week: 3\nCredits: 1.5\n"
+            android:textColor="@color/black"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/math_1213"
+            android:textStyle="normal"
+            android:textSize="12sp"
+            android:textColor="@color/black"
+            android:textAllCaps="false"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textAllCaps="false"
+            android:textStyle="bold|italic"
+            android:text="Phy 1213\nPhysics\nContact hours/week: 3\nCredits: 1.5\n"
+            android:textColor="@color/black"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/phy_1213"
+            android:textStyle="normal"
+            android:textSize="12sp"
+            android:textColor="@color/black"
+            android:textAllCaps="false"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textAllCaps="false"
+            android:textStyle="bold|italic"
+            android:text="Phy 1214\nSessional based on Phy 1213\nContact hours/week: 3\nCredits: 1.5\n"
+            android:textColor="@color/black"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sessional based on the theory of course Phy 1213.\n\n"
+            android:textStyle="normal"
+            android:textSize="12sp"
+            android:textColor="@color/black"
+            android:textAllCaps="false"
+            />
+
+    </LinearLayout>
+
+</ScrollView>

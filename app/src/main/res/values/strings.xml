@@ -1,0 +1,1082 @@
+<resources>
+
+    <string name="app_name">RUET Syllabus</string>
+
+    <string-array name="semesters">
+        <item>1st Year odd semester</item>
+        <item>1st Year even semester</item>
+        <item>2nd Year odd semester</item>
+        <item>2nd Year even semester</item>
+        <item>3rd Year odd semester</item>
+        <item>3rd Year even semester</item>
+        <item>4th Year odd semester</item>
+        <item>4th Year even semester</item>
+    </string-array>
+
+    <string name="about">
+        <u><b>Developed By:</b></u>\n
+        Alifa Shanzidah Manarat,\n
+        CSE 19, RUET.\n\n
+         <u><b>Submitted To:</b></u>\n
+        Suhrid Shakhar Ghosh,\n
+        Assistant Professor,\n
+        Dept. of CSE, RUET.\n\n
+    </string>
+
+    <string name="contact">
+        For any kind of information, \n please reach me at <b>alifa.manarat@gmail.com</b>.\n
+    </string>
+
+    <string name="cse_1100">
+        <b>Computer Fundamentals:</b> Introduction to Computer Basics, Types and Generation of Computers; Basic Organization and Functional Units.\n
+\n<b>Hardware:</b> Basic Units of Computer Hardware; Processors; Input, Output and Memory
+Devices; Keyboard; Mouse; OMR; OCR; MICR; CD-ROM; Printers; CRT; LCD; LED;
+Microfilm; Floppy.\n\n<b>Software:</b> Types of Software; System Software: Familiarization with Various Operating
+Systems (Windows, DOS, UNIX, Android, IOS Etc.); \n\n<b>Application Software:</b> Text
+Processing (MS-WORD, etc); Spread Sheet (MS-EXCEL etc).\n\n
+<b>Language:</b> Machine Language; Assembly Language; High Level Language; Assembler;
+Translator; Interpreter and Compiler.\n\n
+<b>Database Management:</b> Introduction of Data, Information and Management; Studying
+Various Tools like Foxpro, MS Access, Oracle etc; Mathematical and Simulation (Math
+Cad, Matlab etc.); Data Communications and Internet.\n\n
+<b>Computer Ethics:</b> Computers in the Workplace; Computer Crime; Rules of
+Communications; Privacy; Intellectual Property; Impact on Employment; Professional
+Responsibility; Globalization.\n\n
+    </string>
+
+    <string name="cse_1101">
+        <b>Introduction to Computer Programming:</b> Algorithm, Writing, Debugging and Running
+Programs using C/C++ Compiler. \n\n
+C/C++ Basics: Different Data Types and their Range, Operator and Operands and its
+Precedence, Input/Output, Conditional Operators, Loops Nested Structure, Error
+Handling, Built-in Functions\n\n
+       <b> Functions and Arrays:</b> Writing and Calling of User–defined Functions, Recursive
+Functions, Scope of Variables, Introduction to One-Dimensional Arrays, Multi-Dimensional
+Arrays and Array Manipulation.\n\n
+<b>Pointers and Strings:</b> Introduction to Pointers, Pointers and Array, Pointers and
+Functions, String I/O, String-based Built-in Functions, String Operations, Pointer and
+String.\n\n
+<b>Files:</b> Introduction to Files in C/C++, Opening, Closing and Updating Binary and
+Sequential Files.\n\n
+<b>Advanced Topics:</b> Operations on Bits, Register Variable, Pre-Processors and Graphics
+in C/C++.\n\n
+
+    </string>
+
+    <string name="eee_1151">
+       <b>Basics of Electrical Circuit:</b> Electrical Units and Standards. Electrical Circuit Elements
+and Models. Signal and Waveforms. Fourier Representation of Non-Sinusoidal
+Waveforms. RMS and Average Value of Sinusoidal Waveforms. Introduction to Phasor
+Algebra. DC and Steady State AC Circuit Solutions: Series, Parallel, Series-Parallel
+Networks, Loop and Nodal Methods, Delta-Wye Transformations.\n\n
+<b>Circuit Theorems:</b> KVL, KCL, Thevenin, Norton, Super-position, Reciprocity and
+Maximum Power Transfer Theorems, Resonance. Circuit Analysis using Popular
+Simulation Tools\n\n
+    </string>
+
+    <string name="math_1113">
+        <b>Differential Calculus:</b> Limit, Continuity and Differentiability. Differentiation of Explicit and
+Implicit Function and Parametric Equations. Significance of Derivatives, Differentials,
+Successive Differentiation of Various Types of Functions. Leibnitzs Theorem. Rolles
+Theorem, Mean Value Theorems. Taylors Theorem in Finite and Infinite Forms.
+Maclaurins Theorem in Finite and Infinite Forms. Langranges Form of Remainders.
+Cauehys Form of Remainder. Expansion of Functions by Differentiation and Integration.
+Partial Differentiation. Eulers Theorem. Tangent and Normal, Maxima and Minima, Points
+of Inflection and Their Applications. Evaluation of Indeterminate Forms by LHospitals
+Rule, Curvature, Evaluate and Inviolate. Asymptotes. Envelopes, Curve Tracing.\n\n
+<b>Integral Calculus:</b> Definitions of Integration, Integration by The Method of Substitutions,
+Integration by The Method of Successive Reduction. Definite Integrals. Beta Function and
+Gamma Function. Area Under a Plane Curve in Cartesian and Polar Co-Ordinates. Area
+of the Region Enclosed by Two Curves in Cartesian and Polar Co-Ordinates, Parametric
+and Pedal Equations. Intrinsic Equation. Volumes of Solids of Revolution. Volume of
+Hollow Solids of Revolution by Shell Method. Area of Surface of Revolution.\n\n
+    </string>
+
+    <string name="hum_1113">
+        <b>Grammar:</b> Construction and Transformation of Sentences, Analysis of Sentence,
+Structure, Use of Preposition, Question Words, WH and Yes/No Question, Phrases and
+Idioms, Correction, Conditional Sentences, Punctuation, Pronunciation, Phonetic
+Transcription, Spoken English.\n\n
+<b>Composition:</b> Definition of Scientific Terms, Comprehension, Precis Writing, Commercial
+Correspondence, Paragraph Writing, Amplification, Tenders and Schedules, Memos and
+Press-Release, Report Writing.\n\n
+        <b>Short Stories:</b>\n
+The Diamond Necklace – Guy De Mapausant\n
+Meeting in the Mosque – E. M. Forster\n
+Tickets, Please – D. H. Lawrence\n
+The Dead – James Joyce\n\n
+    </string>
+
+    <string name="hum_1114">
+        <b>Developing Reading Skill:</b> Strategies of Reading Skimming, Scanning, Predicting,
+Inferencing, Practicing Comprehension from Literary and Non Literary Texts.\n\n
+        <b>Developing Writing Skill:</b> Sentence Variety; Generating Sentences, Clarity and
+Correctness of Sentences, Linking Sentences for Paragraphs, Writing Paragraphs,
+Essays, Reports Formal and Informal Letters.\n\n
+<b>Developing Listening Skill:</b> Listening to Recorded Texts and Class Lectures and
+Learning to Take Notes.\n\n
+    </string>
+
+    <string name="chem_1113">
+        <b>Chemical Bond:</b> Different Types of Chemical Bonds; Properties of Ionic and Covalent
+Compounds, Modern Approach of Covalent Bond.\n\n
+<b>Thermo-chemistry:</b> Types of Energy, Enthalpy of Reaction, Heat of Combustion, Heat of
+Formation and Heat of Neutralization, Experimental Determination of Thermal Changes
+During Chemical Reaction.\n\n
+<b>Titration:</b> Acid Base Titration and its Problem During the Process of Titration.\n\n
+<b>Solution:</b> Types of Solution, Factors Influencing the Solubility of Substance. Mechanism of
+Dissolution; Solution of Gases in Liquids, Different Units of Concentration, Distribution Law
+and its Application; Properties of Dilute Solution, Raoults Law - its Application, Elevation of
+Boiling Point, Depression of Freezing Point and Osmotic Pressure.\n\n
+<b>Electro-chemistry:</b> Electrolytes, Mechanism of Electrolytic Conduction, Transport Number
+and Electrolytic Conductance.\n\n
+<b>Kinetics and Chemical Equilibrium:</b> Rate of a Reaction, Factors Determining the Rate,
+Law of Mass Action, Evaluation and Characteristics of Equilibrium Constant of Reaction;
+the Lechatcliers Principle.\n\n
+<b>Colloid:</b> Colloids and Properties of Colloidal System and its Application. \n\n
+    </string>
+
+    <string name="cse_1200">
+        Student will Solve at least 30 (Thirty) Problems using C, C++ or Java. Among them at
+Least three Problems should be Submitted from Geometry, Mathematics, String
+Processing, Tree, Graph and Sorting Techniques.\n\n
+    </string>
+
+    <string name="cse_1201">
+        <b>Introduction:</b> Concepts and Examples of Elementary Data Objects, Necessity of
+Structured Data, Types of Data Structure, Ideas on Linear and Nonlinear Data Structure.\n\n
+<b>Linear Array:</b> Linear Array and its Representation in Memory, Traversing LA, Insertion and
+Deletion in LA, Bubble Sort, Linear Search and Binary Search, Multidimensional Array and its
+Representation in Memory, Algebra of Matrices, Sparse Matrices.\n\n
+<b>Stack:</b> Stack Representation and Applications; PUSH and POP Operation on Stack. Polish
+Notation, Reverse Polish Notation; Evaluation of a Postfix Expression; Transforming
+Infix Expression into Postfix Expression.\n\n
+<b>Queue:</b> Its Representation, Insertion and Deletion in Queue, Priority Queues, Recursion
+[Factorial Function, Fibonacci Sequence, Ackermann Function, Towers of Hanoi].\n\n
+<b>Linked List:</b> Linked List and its Representation in Memory, Traversing, Searching, Insertion
+and Deletion Operation on Linked List, Circular List, Header Linked Lists, Two Way Lists.\n\n
+<b>Complexity:</b> Algorithm and Flow Chart, Complexity of Algorithms, Rate of Growth, Big O
+Notation, Complexity of Linear Search, Binary Search and Bubble Sort Algorithm. \n\n
+<b>Sorting:</b> Insertion Sort, Selection Sort, Quick Sort, Merge Sort, Searching and Data
+Modification, Hash Function, Collision Resolution, Chaining.\n\n
+<b>Tree:</b> Tree Terminology, Representation of Binary Trees in Memory, Traversing Binary
+Tree, Binary Search Tree, Insertion and Deletion on Binary Search Tree, Insertion and
+Deletion on Heap, Heap Sort, B Trees, General Tree.\n\n
+    </string>
+
+    <string name="cse_1203">
+        <b>Fundamentals of OOP:</b> Introduction to Object Oriented Programming, Principles of
+Object Oriented Design, Encapsulation and Information-hiding, Inheritance,
+Polymorphism, Data Binding, Static and Dynamic Binding.\n\n
+<b>Classes and Objects:</b> Structure of Class, Access Modifiers, Nested Classes, Abstract
+Classes, Arrays of Objects, Pointer to Objects, Friend function, Data abstraction.\n\n
+<b>Constructors and Destructors:</b> Default Constructor, Copy Constructor, Dynamic
+Constructor, Constructor Function for Derived Class and their Order of Execution,
+Destructor.\n\n
+<b>Inheritance:</b> Single Inheritance vs. Multiple Inheritance, Mode of Inheritance, Virtual
+Inheritance. \n\n
+<b>Polymorphism:</b> Operator and Function Overloading, Run-Time and Compile Time
+Polymorphism, Virtual Function, Errors and Exception Handling.\n\n
+<b>Advanced Topics:</b> Persistent Objects, Objects and Portable Data, UML Basics, Design
+Patterns, Multithreading.\n\n
+<b>Reference Programming Language(s):</b> C++ and Java.\n\n
+    </string>
+
+    <string name="math_1213">
+        <b>Co-ordinate Geometry:</b> Co-ordinate Geometry of Two Dimensions: Change of Axes,
+Transformation of Co-Ordinates, Simplification of Equations of Curves.\n\n
+<b>Co-ordinate Geometry of Three Dimensions:</b> System of Co-Ordinates, Distance
+between two Points, Section Formula, Direction Cosines and Projection, Planes and
+Straight Lines.\n\n
+<b>Ordinary Differential Equation:</b> Degree and Order of Ordinary Differential Equations.
+Formation of Differential Equations. Solutions of First Order Differential Equations by
+Various Methods, Solutions of General Linear Differential Equations of Second and
+Higher Orders with Constant Coefficients, Solution of Homogeneous Linear Differential
+Equations. Solution of Higher Order Differential Equations when the Dependent of
+Independent Variables are Absent. Solution of Differential Equation with Constant
+Coefficients by Operator Method. Differential Equations with Variable Coefficients.\n\n
+    </string>
+
+    <string name="hum_1213">
+        <b>Economics:</b> Nature of the Economics Theory Applicability of Economic Theory to the
+Problems of Developing Countries, Some Basic Concepts Supply, Demand and their
+Elasticity. Economics and Technology. Producers Equilibrium-Isoquant. Production -
+Factors of Production, Production Possibility Curve-Equilibrium of a Firm, Fixed Cost and
+Variable Cost, Laws of Returns ,Internal and External Economics and Dis-Economics,
+Input Output Analysis. Economic Growth and Economic Development and Planning Basic
+Concept-Saving, Investment, GNP, NNP, Per-Capita Income, Growth Rate, Fiscal Policy,
+Monetary Policy and Trade Policy and their Relative Applicability in Bangladesh, Planning-Five Year Plans of Bangladesh, Development Problems Related to Agriculture. Industry
+and Population of Bangladesh.\n\n
+<b>Government:</b> Basic Concepts of Government and Politics. Functions, Organs and Forms
+of Modern State and Government, Socialism. Capitalism, UNO, Government and Politics
+of Bangladesh, Some Major Administrative Systems of Developed Counties. Local Self -
+Government. Central Government, Public Opinion.\n\n
+<b>Sociology:</b> Scope, Culture and Civilization Relationship, Social Structure of Bangladesh.
+Industrial Revolution, Urbanization and Industrialization, Urban Ecology, Cyber Crime and
+Delinquency, Sociology of Education. Relationship-Sociology and Cyber Crime. Causes
+and Remedies of Cyber Crime.\n\n
+    </string>
+
+    <string name="phy_1213">
+        <b>Structure of Matter:</b> Structure of Matter. Different Types of Bonds in Solids: Metallic, Van
+Dar Waals‟, Covalent and Ionic Bond, Packing in Solids: Inter Atomic Distances and
+Forces of Equilibrium, X-Ray Diffraction, Bragg‟s Law. Distinction Insulator,
+Semiconductor and Conductor.\n\n
+<b>Atomic Physics:</b> Atom Models: Thomson Atom Model, Rutherford Atom Model,
+Rutherford Scattering Formula, Electron Orbits, Bohr Atom Model, Energy Levels and
+Spectra, Particle Properties of Waves: Photoelectric Effect, Einstein‟s Photoelectric
+Equation, Laws of Photoelectric Emission, Photovoltaic Cells, Compton Effect. Wave
+Properties of Particle: De Broglie Waves, Group Velocity, Phase Velocity.\n\n
+<b>Waves and Oscillations:</b> Oscillations: Simple Harmonic Motion, Composition of Simple
+Harmonic Motions and Lissajous‟ Figures, Damped and Forced Oscillations. Resonance.
+Waves: Travelling and Standing Waves, Energy Calculation of Traveling and Standing
+Waves, Intensity of Waves. Beats, Doppler Effect.\n\n
+<b>Theories of Light:</b> Wave Theory: Huygens Wave Theory. Huygens Principle and
+Construction, Superposition of Light Waves. Electromagnetic Theory. Particle Theory:
+Newton‟s Corpuscular Theory, Quantum Theory of Light.\n\n
+Interference: Introduction, Conditions of Interference, Young‟s Double Slit Experiment,
+Fresnels Biprism. Thin Film Interference, Interference Due to Multiple Reflection, Newtons
+Ring.\n\n
+<b>Diffraction:</b> Fresnel‟s and Fraunhoper Diffraction, Diffraction by Single and Double Slit,
+Diffraction Gratings.\n\n
+<b>Polarization:</b> Introduction, Methods of Producing Polarized Light, Polarization by
+Reflection and Refraction, Polarization by Double Refraction, Constrauvtion of Nicol
+Prism, Production and Analysis of Polarized Light, Optical Activity, Optics of Crystals,
+Polarimeters.\n\n
+    </string>
+
+    <string name="cse_2101">
+        <b>Set:</b> Operations on Sets, Algebraic Properties of Set, Computer Representation of Set,
+Cantors Diagonal Argument and the Power Set Theorem, Schroeder-Bernstein Theorem.\n\n
+<b>Relation:</b> Property of Relation, Binary Relations, Partial Ordering Relations, Equivalence
+Relations.\n\n
+<b>Function:</b> Type of Functions, Growth of Function.\n
+Propositional Logic: Syntax, Semantics, Valid, Satisfiable and Unsatisfiable Formulas,
+Encoding and Examining the Validity of Some Logical Arguments, Predicate and
+Quantifier, Universal and Existential Quantification; Modus Ponens and Modus Tollens.\n\n
+<b>Proof Techniques:</b> The Structure of Formal Proofs, Direct Proofs, Proof by Counter,
+Proof by Contraposition, Proof by Contradiction, Mathematical Induction, Proof of
+Necessity and Sufficiency.\n\n
+<b>Number Theory:</b> Theorem of Arithmetic, Modular Arithmetic, GCD, LCM, Prime Number,
+Congruence, Application of Congruence, Application of Number Theory, Chinese
+Remainder Theory.\n\n
+<b>Introduction to Counting:</b> Basic Counting Techniques - Inclusion and Exclusion, Pigeon-Hole Principle, Permutation, Combination, Sequence and Summations, Introduction to
+Recurrence Relation and Generating Function.\n\n
+<b>Introduction to Graphs:</b> Graphs and their Basic Properties - Degree, Path, Cycle, Sub-Graphs, Isomorphism, Euclidian and Hamiltonian Walks, Graph Coloring, Planar Graphs.\n\n
+    </string>
+
+    <string name="cse_2103">
+      <b>Modeling, Computers and Error Analysis:</b> Mathematical Modeling and Engineering
+Problem Solving, Programming and Software, Approximations and Round-Off Errors,
+Truncation Errors and the Taylor Series. \n\n
+<b>Roots of Equations:</b> Bracketing Methods, Open Methods, Roots of Polynomials,
+Linear Algebraic Equations: Gauss Elimination, LU Decomposition and Matrix Inversion,
+Gauss-Seidel.\n\n
+<b>Optimization:</b> One-dimensional Unconstrained optimization.\n
+<b>Curve Fitting:</b> Least-square Regression \n
+<b>Interpolation:</b> Interpolation with one and two Independent Variables, Formation of
+Different Difference Table, Newton‟s Forward and Backward Difference, Langranges
+Interpolation. \n\n
+<b>Numerical Differentiation and Integration:</b> Newton-Cotes Integration Formulas,
+Integration of Equations, Numerical Differentiation. \n\n
+<b>Ordinary Differential Equations:</b> Runge-Kutta Methods, Boundary-Value and
+Eigenvalue Problems, Numerical Solution of Partial Differential Equations.\n\n
+  </string>
+
+    <string name="eee_2151">
+    <b>Semiconductor Diodes:</b> Semiconductor, n-and p-Type Semiconductors, p-n Junction as
+a Diodes and their V-I Characteristics, Zener Diode, Half-and Full Wave Rectifiers,
+Voltage Regulation using Zener Diodes.\n\n
+<b>Filters:</b> Properties of Symmetrical Networks, Characteristics Impedance, Filter
+Fundamentals, Different Types of Filters, High Pass, Low Pass, Band Pass and Band
+Elimination Filter, Active Filters.\n\n
+    <b>Linear Wave Shaping:</b> Diode Wave Shaping Techniques, Clipping and Clamping
+Circuits, Comparator Circuits, Switching Circuits; Schmitt Trigger. \n\n
+<b>555 Timer: </b>Architecture of 555 Timer, Different Application of 555 Timer, 555 as
+Monostable, Bistable and Astable Multivibrators.\n\n
+<b>Transistor:</b> Transistor Action, Transistor Biasing, DC Characteristics of CE, CB and CC
+Configurations.\n\n
+<b>Transistor Amplifiers and Oscillators:</b> CE, CB and CC Amplifiers, Current, Voltage and
+Power Gains, Frequency Responses, Principles of Feedback, Positive and Negative
+Feedback, and Oscillators. \n\n
+</string>
+
+    <string name="math_2113">
+        <b>Vector Analysis:</b> Vectors, Differentiation and Integration, Line, Surface and Volume
+Integrals, Gradient of a Function, Divergence and Curl of Vector and their Applications,
+Physical Significance of Gradient, Divergence and Curl, Vector Identities, Integral Forms
+of Gradient, Divergence and Curl, Green‟s Theorem, Stocks Theorem, Gausss
+Divergence Theorem.\n\n
+<b>Matrix:</b> Definition of Matrices, Equality of two Matrices, Addition, Subtraction and
+Multiplication of Matrices, Equivalence of Matrices, Positive and Negative Matrices,
+Adjoint of Matrices, Transpose and Inverse of Matrices, Rank and Normal form of
+Matrices, System of Linear Equations, Solution of Homogeneous and Non-Homogeneous
+Systems, Determination of Eigen Values and Eigen Vectors, Solutions of Matrix
+Differential Equations.\n\n
+<b>Linear Algebra:</b> Vector Space, Subspace, Sum and Direct Sum, Hilbert Space, Normed
+Linear Space, Branch Space, Basis and Dimension. Linear Transformation: Range,
+Kernel, Nullity, Singular and Non-Singular Transformation. Linear Operations: Matrix
+Representation of a Linear Operator. Change of Basis, Similarity and Linear Mapping.\n\n
+    </string>
+
+    <string name="hum_2113">
+        <b>Industrial Management:</b> Management: Principle of Management, Management
+Functions, Management Skills, Authority and Responsibility, Span of Control, Management
+by Objective, Consultative Management, Participative Management, Decision Making,
+Manpower Motivation. Human Resources Management: Manpower Planning, Recruitment
+and Selection, Employee Training and Development, Performance Appraisal, Wages and Salary
+Administration. Production Management: Plant Layout: Definition, Basic Layout Types,
+Problem Solving, Problem Solving, Linear Programming.EOQ, Lead Time, Safety Stock,
+Re-Order Point. \n\n
+<b>Accountancy:</b> Basic Accounting Principles, Objectives of Accounting, Transaction,
+Double Entry Systems, Accounts and it‟s Classification, Journals Cash Book, Ledger, Trial
+Balance, Financial Statement. Cost Accounts and Objectives; Costs; Classification,
+Preparation of Cost Sheet, Cost Volume Profit (CVP) Analysis, Standard Costing, Process
+Costing.\n\n
+    </string>
+
+    <string name="cse_2201">
+        <b>Asymptotic Notations:</b> Complexity Analysis of Algorithms, Worst Case, Best Case and
+Average Case.\n\n
+<b>Sorting Algorithms:</b> Divide and Conquer Approach, Merge Sort and Quick Sort
+Algorithm, Complexity Analysis, Worst and Average Case Analysis, Heap Construction
+Algorithm, Heap Sort, Application of Heap: Priority Queue, Decision Tree Model and
+(Worst Case) Lower Bound on Sorting, Sorting in Linear Time - Radix Sort, Bucket Sort,
+Counting Sort, etc.\n\n
+<b>Graph Algorithms:</b> Representation of Graphs, Breadth First Search, Depth First Search,
+Minimum Spanning Tree, Kruskal and Prims Algorithm.\n\n
+<b>Shortest Path:</b> Dijkstra’s Algorithm, Bellman-Ford Algorithm. Floyd Warshall Algorithm.
+Searching Algorithms: Binary Search Trees, Balanced Binary Search Trees, AVL Trees
+and Red-Black Trees, B-Trees, Skip Lists, Hashing. Priority Queues, Heaps, Interval
+Trees.\n\n
+<b>Dynamic Programming:</b> Longest Common Subsequence (LCS), Matrix Chain
+Multiplication (MCM), Knapsack Problem, Multistage Graphs.\n\n
+<b>Greedy Algorithm:</b> Greedy Algorithm, Activity Selection Problem, Huffman Codes and its
+application, Knapsack problem, Tree Vertex Splitting.\n\n
+<b>Recurrences and Backtracking:</b> Recurrences, NP-Hard and NP-Complete Problems,
+Backtracking, n-Queen Problem, Branch and Bounds.\n\n
+<b>Reducibility between Problems and NP-completeness:</b> Lower Bound Theory,
+Discussion of Different NP-Complete Problems like Satisfiability, Clique, Vertex Cover,
+Independent Set, Hamiltonian Cycle, TSP, Knapsack, Set Cover, Bin Packing, etc.
+Computational Geometry, Line Segment Properties, Convex Hull, Graham Scan Algorithm
+of Convex Hull.\n\n
+    </string>
+
+    <string name="cse_2203">
+        <b>Information and Digital Systems:</b> Introduction to Digital Systems, Number Systems,
+Weighted and Non-Weighted Codes, Error Detection Code, Binary Addition and
+Subtraction, 2‟s Compliment Methods.\n\n
+<b>Boolean Algebra and Combinational Logic Circuits:</b> Digital Logic, Boolean Algebra,
+Boolean Function, Canonical Forms, Karnaugh Maps, Minimization of Boolean Functions,
+Logic Gates and their Truth Tables, Design Methodologies, Combinational Logic Circuit
+Design, Arithmetic and Data Handling Logic Circuits. Decoders, Encoders, Multiplexer,
+Demultiplexer.\n\n
+<b>Flip Flop and Sequential Logic Circuits:</b> Transistor Latch, NAND Gate Latch, NOR
+Gate Latch, D Latch. Clock Signals and Clocked Ffs: Clocked SR, JK and D Flip-Flops,
+Master/Slave JK FF, Timing Diagram of Different Ffs, Edge-Triggered and Level-Triggered
+Timing Diagrams., Counters, Registers, Memory Devices and their Applications. \n\n
+<b>Technology Parameters:</b> Fan In, Fan Out, Propagation Delay, Power Dissipation and
+Noise Immunity.\n\n
+<b>Others:</b> Diode Logic Gates, Transistor Gates, MOS Gates, Logic Families: TTL and
+CMOS Logic with Operation Details\n\n
+    </string>
+
+    <string name="cse_2205">
+        <b>Finite State Machine:</b> Fundamental of Finite State Machine, State Equivalence and
+Minimization of Machine, Incompletely Specified Machine and Minimal Machine, Merger
+Graph and Compatibility Graph, Finite Memory and Definite Memory Machine, Information
+Lossless Machine and Inverse Machine.\n\n
+<b>Finite Automata:</b> Introduction to Finite Automata, Structural Representations, Automata
+and Complexity, an Informal Picture of Finite Automata, Deterministic Finite Automata,
+Non-Deterministic Finite Automata, an Application (i.e. Text Search or other), Finite
+Automata with Epsilon-Transitions.\n\n
+<b>Regular Expressions and Languages:</b> Regular Expressions, Finite Automata and
+Regular Expression, Application of Regular Expressions, Algebraic Laws for Regular
+Expressions; Closure Properties of Regular Language, Decision Properties of Regular
+Languages, Equivalence and Minimization of Automata.\n\n
+<b>Context-Free Grammar and Languages:</b> Context-free Grammars, Parse Trees,
+Application of Context-Free Grammars, Ambiguity in Grammars and Languages, Normal
+Forma for Context-Free Grammars, The Pumping Lemma for Context-Free Languages,
+Closure Properties of Context-Free Languages, Decision Properties of CFLs.\n\n
+<b>Pushdown Automata:</b> Definition of the Pushdown Automata, the Languages of a PDA,
+Equivalence of PDA‟s and CFG‟s, Deterministic Pushdown Automata.\n\n
+<b>Introduction to Turing Machines:</b> The Turing Machine, Programming Techniques for
+Turing Machines, Extensions to the Basic Turing Machine, Restricted Turing Machines,
+Turing Machines and Computers.\n\n
+<b>Undecidability:</b> A language that is not recursively enumerable, an undecidable problem
+that is RE, undecidable problems about turing machines, post‟s correspondence problem,
+other undecidable problems. \n\n
+    </string>
+
+    <string name="eee_2251">
+        <b>DC Machines:</b> Operation and Performance Characteristics of Generators and Motors.
+Starting, Speed Control and Braking of Motors. Different Application of DC Motors.
+AC Machines: Transformer: Principle of Operation of Transformer. Single Phase
+Induction Motors and its Methods Of Starting.\n\n
+<b>Synchronous Machines and Motors:</b> Principles of Operation and Equivalent Circuit.
+Method of Synchronization. Special Motors: Stepper Motor, Servomotor, Brush Less
+Motors.\n\n
+<b>Measuring Instruments:</b> Electromechanical and Electronic Meters and their Uses.
+Extension of Instrument Range.\n\n
+<b>Transducers:</b> Different Types of Transducers and their Principle of Operations: Position
+and Displacement Transducers, Potentiometer, Linear Variable Differential Transformers
+(LVDT), Pressure Transducer, Temperature Transducer, Optical Transducer, Ultrasonic
+Transducer; Humidity Transducer, Hall Effect Transducer, and Speed Transducer.\n\n
+    </string>
+
+    <string name="math_2213">
+        <b>Complex Variable :</b> Complex Number Systems, General Functions of a Complex
+Variable, Limits and Continuity of a Function of Complex Variable and Related Theorems,
+Complex Differentiation and the Cauchy-Riemenn Equations, Infinite Series,
+Convergence, Line Integral, Cauchy Integral Theorem, Cauchy Integral Formula,
+Liouvilles Theorem, Taylors and Laurents Theorems, Singular Points, Residue, Cauchys
+Residue Theorem, Contour Integration.\n\n
+<b>Differential Equations:</b> Series Solution: Singular Points, Series Solutions: Frobenius
+Method, Bessels and Legenders Differential Equations.\n\n
+<b>Partial Differential Equation:</b> Partial Differential Equations, Solution of First Order Partial
+Differential Equation by Lagrange and Charpit Methods, Solution of Laplace Equation and
+Wave Equation.\n\n
+<b>Harmonic Analysis and Laplace Transform:</b> Fourier Series and Fourier
+Transformations and its Applications to Solve Boundary Value Problems. Laplace
+Transforms, Inverse Laplace Transforms, Solution of Differential Equation by Laplace
+Transforms.\n\n
+    </string>
+
+    <string name="cse_3100">
+        Students will Work in Groups or Individually to Develop Web based Applications and
+Design a Web Site by Adding Client Side and Server Side Scripting and Interfacing the
+Web Applications to a Database.\n\n
+    </string>
+
+    <string name="cse_3101">
+        <b>Concepts of Database Systems:</b> Files and Databases, Database Management Systems;
+Transaction Management, Structure of a DBMS, Applications.\n\n
+<b>Entity-Relationship Concepts:</b> Entity Types, Entity Set, Attribute and Key, Relationships,
+Relation Types, Entity Relationship, ER Modeling, ER Diagrams, Database Design using
+ER Diagrams, Enhanced Entity-Relationship (EER) Model.\n\n
+<b>Normalization:</b> Normal Forms, Normalized Relations and Database Performance; DeNormalization.\n\n
+Relational Model: Structure of Relational Databases, Relational Algebra, Relational
+Algebra Operations, Modification of the Database, Introduction to Views, Pitfalls in
+Relational Database Design.\n\n
+<b>SQL:</b> Data Definition Language, Data Manipulation Language, Basics of SQL, Query
+Designing in SQL using Aggregate Functions and Nested Queries, Embedded SQL,
+Triggers, Procedures; Indexes; Declarative Constrains and Database Triggers.\n\n
+<b>Concurrency Control:</b> Lock based Protocols, Timestamp based Protocols, Validation
+based Protocols, Deadlock.\n\n
+        <b>Recovery System:</b> Failure Classification, Storage Structure, Recovery and Atomicity,
+Log-based Recovery, Recovery with Concurrent Transactions, Advanced Recovery
+Techniques, RAID Model.\n\n
+<b>Advanced Database Management Systems:</b> No SQL Systems, Distributed Systems,
+Object-Oriented System, Temporal, Database Security, Data Warehousing and Data
+Mining, Database Administration and Tuning. \n\n
+    </string>
+
+    <string name="cse_3103">
+        <b>Fundamental:</b> Representation of Signals in Time and Frequency Domain, Properties of
+Fourier Transform, Delta Function, Auto-Correlation and Cross-Correlation.\n\n
+<b>Data Communication and Network Model:</b> Data Communication, Fundamental of
+Networks, History of the Internet, Protocols and Standards.\n\n
+<b>Signal and System, Transmission Media, Interfaces:</b> Analog and Digital Data, Periodic
+Analog Signals, Digital Signals, Transmission Impairment, Data Rate Limits and
+Performance.\n\n
+<b>Digital and Analog Transmission:</b> Digital to Digital Conversion, Line Encoding
+Schemes, Block Coding, Scrambling, Analog to Digital Conversion, Transmission
+Modes, Digital to Analog Conversion, Bandwidth Utilization, Analog to Digital Conversion.\n\n
+<b>Multiplexing, Spreading and Switching:</b> Multiplexing, Spread Spectrum, Packet-Switched Data Networks, Circuit Switched Data Networks, Virtual Circuit Networks.
+Transmission Medium: Guided Media and Unguided Media. \n\n
+    </string>
+
+    <string name="cse_3105">
+        <b>Introduction:</b> Introduction to Software and its Nature, Software Engineering Methods,
+Professional and Ethical Responsibility of a Software Engineer.\n\n
+<b>Software Process Model:</b> Different Types of Software Process Model and their
+Implementations, Costs of Software Engineering.\n\n
+<b>Software Requirement Analysis:</b> Software Requirements Analysis and their
+Applications, Software Prototyping, Basic Concepts of Different Formal Software
+Specification.\n\n
+<b>Design of Software:</b> Software Design and its Different Techniques, Software
+Configuration Managements. System Structuring, Control Models, Modular
+Decomposition, Domain-Specific Architecture. \n\n
+<b>Software Testing:</b> Software Validation and Verification: Verification and Validation
+Planning, Softwares Testing Strategies and Different Type of Testing Techniques, Art of
+Debugging.\n\n
+<b>Software Quality Assurance:</b> Management and its Quality Assurance, Software
+Cognitive Fundamentals, Concepts of Software Reengineering and Web Engineering. \n\n
+<b>Advance Topics:</b> Software Reliability Metrics, Software Reliability Specification,
+Statistical Testing and Reliability Growth Modeling, Use of CASE Tools and Technological
+Support in Engineering Software, Introduction to Unified Modeling Language–UML.\n\n
+    </string>
+
+    <string name="cse_3107">
+        <b>Introduction:</b> Statistics and its Importance, Population and Sample, Variable and
+Constants, Statistical Data, Data Collection and Presentation, Construction of Frequency
+Distribution and Graphical Presentation.\n\n
+<b>Measures of Central Tendency:</b> Arithmetic Mean, Geometric Mean, Harmonic Mean,
+Median, Mode, Weighted Mean.\n\n
+<b>Measures of Dispersion:</b> Range, Standard Deviation, Variance, Moments, Skewness
+and Kurtosis. \n\n
+        <b>Correlation Theory:</b> Linear Correlation and its Measures and Significance, Rank
+Correlation. \n\n
+<b>Regression Analysis:</b> Linear and Non-Linear Regression, Least-Square Method of Curve
+Fittings. \n\n
+<b>Probability:</b> Elementary Concepts, Laws of Probability – Additive and Multiplicative Law,
+Conditional Probability and Bay‟s Theorem, Random Variables, Mathematical Expectation.
+Probability Distributions: Binomial Distribution, Poisson Distribution and Normal
+Distribution. \n\n
+<b>Queuing Theory:</b> Stochastic Processes, Discrete Time Markov Chain and Continuous
+Time Markov Chain. Birth-Death Process in Queuing. Queuing Models:
+M/M/1,M/M/C,M/G/1,M/D/1,G/M/1 Solution of Network of Queue-Closed Queuing Models
+and Approximate Models. Application of Queuing Models in Computer Science. \n\n
+    </string>
+
+    <string name="cse_3109">
+        <b>Microcomputer System:</b> Introduction to Different Types of Microprocessors and its
+Applications, Organization of Intel 8086/8088 Microprocessor, the Component of
+Microcomputer System, I/O Device, Interrupt Structures, I/O Interfacing, DMA, CoProcessors, RISC Processors, Power PC Processor, CISC Processor, Direct Video RAM
+Accessing, Memory Module.\n\n
+<b>Introduction of Assembly Language:</b> Program Structure and its Components, Few
+Basic Instruction, Input/Output Instruction.\n\n
+<b>Flag Register and Flow Control:</b> The Flag Register, Flow Control Instructions,
+Conditional and Unconditional Jumps, Branching and Looping Structures.
+Logic and Arithmetic Operation: Logic, Shift and Rotate Instruction, Multiplication and
+Division Instructions.\n\n
+<b>Arrays and Data Structure:</b> Arrays and Related Addressing Modes, DUP Operator,
+Register Indirect Modes, Based and Indexed Addressing Modes, Basic Stack Operations,
+Procedures Declaration, Communication between Procedures, Calling a Procedure. \n\n
+<b>String Manipulation:</b> The String Instructions, Director Flag, Moving a String, Storing a
+String, Loading a String, Scanning a String, Comparing Strings, Substring Operation.\n\n
+
+    </string>
+
+    <string name="cse_3112">
+        <b>Introduction:</b> Issues of Technical Writing and Effective Oral Presentation in Computer
+Science and Engineering.\n\n
+<b>Writing Issues:</b> Writing Styles of Definitions, Propositions, Theorems and Proofs;
+Preparation of Reports, Research Papers.\n\n
+<b>Thesis and Books:</b> Abstract, Preface, Contents, Bibliography and Index; Writing of Book
+Reviews and Referee Reports.\n\n
+<b>Writing and Presentation Tools:</b> LATEX; Diagram Drawing Software; Presentation
+Tools.\n\n
+    </string>
+
+    <string name="cse_3200">
+        Students will Work in Groups or Individually to Develop High Quality Software/Projects
+Including New I/O Drivers or Similar Projects Involving Operating Systems Modules in
+Different Types of Data Base Systems or Project Oriented and Visual Languages,
+Students will Writes Structure Program and use Proper Documentation.\n\n
+    </string>
+
+    <string name="cse_3201">
+        <b>Introduction to Operating System:</b> Operating System Concepts, its Role in Computer
+Systems, Computer System Structure, Fundamental of Different Types of Computer
+System, Operating System Structure and Operation, Protection and Security.\n\n
+<b>Process Management:</b> Process Concept, Model and Implementation, Process State,
+Process Scheduling, Inter-Process Communication (IPC), Multiprocessing and
+Timesharing, Interaction between Process and Operating System; CPU Scheduling:
+        Scheduling Concepts, Scheduling Criteria, Scheduling Algorithms (SJF, FIFO, Round
+Robin, etc.). \n\n
+<b>Memory Management:</b> Memory Portioning, with and without Swapping, Virtual Memory –
+Paging and Segmentation, Demand Paging, Page Replacement Algorithms,
+Implementation.\n\n
+<b>File Systems:</b> FS Services, Disk Space Management, Directory and Data Structures;
+Deadlocks and Case Study: Modeling, Detection and Recovery, Prevention and
+Avoidance; Case Study of Some Operating Systems.\n\n
+<b>Others:</b> Introduction to the Different Smart Device Operating System and their Usage.\n\n
+    </string>
+
+    <string name="cse_3203">
+        <b>Introduction to Computer Architecture:</b> Internal Structure of Processor/CPU–Registers,
+PC, ALU, CU, etc. Bus Architecture and Processor Interaction with Memory and
+Peripherals, Memory Hierarchy in Terms of Cache Memory, Main Memory, Secondary
+Storage, Memory Organization into Bytes and Words; Big-Endian and Little-Endian
+Organization, Computer Peripherals, Introduction to Von Neumann SISD Organization,
+RISC and CISC Machines.\n\n
+<b>Review:</b> Representation of Strings, Binary and Hex Integer Representations and
+Conversions, Signed and Unsigned Formats; 2s Complement, Computer Integer
+Arithmetic, Fixed-Point Arithmetic, IEEE Floating Point Representation and Arithmetic.\n\n
+<b>Process and Control:</b> Fetch-Execute Cycle, Encoding and Decoding of MIPS Machine
+Instructions, the MIPS CPU Instruction Set Syntax and Semantics, Addressing Modes,
+MIPS Assembly Language Programming, Register Usage Conventions, use of Stack and
+Stack-Frame for Supporting Function Calling with Parameters, Operating System Calls
+and I/O Operations. CPU and its Instruction Sets Design. \n\n
+        <b>Application HDL and FPGA for Microcomputer Design:</b> Introduction to FPGA and
+HDL/VHDL for Digital Design Implementation. \n\n
+
+    </string>
+
+    <string name="cse_3205">
+        <b>Introduction:</b> Definition, uses of Computer Networks, Network Topology, Network Media,
+Network Devices, Different Types of Network: LAN, MAN, WAN etc.\n\n
+<b>IP Addressing:</b> Classification of IP Addressing, Subnet Mask, CIDR, Private IP Address,
+Public IP Address, Sub Netting, VLSM etc.\n\n
+<b>Network Model:</b> OSI Reference Model, TCP/IT Reference Model, ATM Reference Model,
+Functions of the Layers of Different Models, Network Protocols Working at Different
+Layers.\n\n
+<b>Data Link Layer Design Issues and Framing:</b> Character Count, Byte Stuffing, Bit
+Stuffing, Error Detection: Cyclic Redundancy Check, Parity Bit Checking and Correction:
+Hamming Code, Windowing Protocols: Go Back N ARQ, Selective Repeat ARQ,
+Elementary Data Link Protocols, High-Level Data Link Control, Point to Point Protocol, the
+Medium Access Control Sub-Layer.\n\n
+<b>Multiple Access:</b> Random Access; ALOHA, CSMA, CSMA/CD, CSMA/CA, Channelized
+Access, CDMA, TDMA, FDMA, Controlled Access, Reservation, Poling, Token Passing,
+Ethernet, Wireless Lans and Bluetooth.\n\n
+<b>Switching:</b> Circuit Switching, Packet Switching, Message Switching, Routing
+Algorithms, Virtual Circuit and Datagram, Congestion Control Algorithms, Quality of
+Service, Internetworking, Internetworking Devices etc.\n\n
+<b>Network Layer Protocols:</b> Address Resolution Protocol, Internet Protocol, Internet
+Control, Message Protocol, IPV6, Routing Information Protocol, Open Shortest Path
+First, Border Gateway Protocol, User Datagram Protocol, Transmission Control Protocol.\n\n
+<b>Network Security:</b> Cryptography, Substitution Cipher, Transposition Cipher, One Time
+Pads, Public Key Cryptography, Encryption and Decryption, Authentication Protocol 1.0
+to 5.0, Digital Signature, Key Distribution Center, Different Symmetric Key Algorithm,
+Certificate Authority, DNS, Electronic Mail, World Wide Web.\n\n
+<b>Others:</b> HTTP and Recent Advances in Internet Protocols, Web Server Performance,
+Proxy Servers, Load Balancing in Web Servers, IP Security, Queuing Models for Networks
+and Protocols, Real Time Protocols such as RTP, RTCP and RTSP, Voice over IP, Cloud
+Computing. \n\n
+    </string>
+
+    <string name="cse_3207">
+        <b>Microprocessor Based System Design:</b> Hardware and Software Interfacing in
+Microcomputer System Design, Hardware and I/O Design, Building, Debugging, Testing
+and Linking Program Modules, Programming EPROM. \n\n
+        <b>Interfacing Components:</b> 8284A Programmable Timer, Bus Architecture, Bus Timing,
+8286 Transceiver Device, 8282 Latches, 8288 Bus Controller, Characteristics of Memory
+and I/O Interface, Synchronous and Asynchronous Communication, Serial I/O Interface,
+8251A Communication Interface, 8255A Programmable Peripheral Interface.\n\n
+<b>Interrupt System:</b> Sources of Interrupt, Types of Interrupt, Handling Interrupt Request,
+Interrupt Vector and Table, 8259A Priority Interrupt Controller, Daisy Chain. \n\n
+<b>I/O Controller and Peripheral Components:</b> Interfacing ICs of I/O Devices, I/O Ports,
+Programmable Peripheral Interface, DMA Controller I.E. 8237A DMA Controller, Interrupt
+Controller, Communication Interface, Interval Timer, etc. \n\n
+<b>Memory Device:</b> Memory Terminology, CPU-Memory Connections, ROM Architectures
+and Time Diagram, Different Type of ROM, Flash Memory, RAM Architectures and Time
+Diagram, Different Type of RAM and Read/Write Cycle, Programmable Logic Device
+Architectures. \n\n
+<b>Multi-processor Configurations:</b> Co-Processor Configurations, Numeric Data
+Processor, I/O Processors.\n\n
+<b>Analog and Digital Interface:</b> Sensors, Transducers, D/A Interface, A/D Interface, AD
+and DA Converters Related Chips, High Power Devices. \n\n
+    </string>
+
+    <string name="cse_3209">
+        <b>Fundamental:</b> Definition of Al, Historical Development of Al, Application of Al.\n\n
+<b>Production Systems:</b> Introduction of Product System, Production Rules, the Working
+Memory, the Control Unit Interpretation, Conflict Resolution Strategies, Alternative
+Approach for Conflict Resolution, Types of Production Systems, Forward Versus
+Backward Production Systems, Knowledge Base Optimization in a Production System.\n\n
+<b>General Problem Solving Approaches:</b> Breadth First Search, Depth First Search,
+Iterative Deepening Search, Hill Climbing, Simulated Annealing, Heuristic Search, A*
+Algorithm, Adversary Search, the Minimax Algorithm, Constraint Satisfaction Problems. \n\n
+<b>Logic and Structural Knowledge Representation:</b> Propositional Logic, First-Order
+Logic, Resolution Principle, Frames, Semantic-Nets, Petri Nets, Relational Data Model.\n\n
+<b>Reasoning under Uncertainty:</b> Bayesian Reasoning, Fuzzy Knowledge, Probability
+Theory, Dempster-Shafer Theory, Fuzzy Set Theory, Expert Systems.\n\n
+<b>Machine Learning and Natural Language Processing:</b> Naive Bayes Algorithm,
+Syntactic Semantics and Pragmatic, Top-Down Passing, Bottom-Up Pursing, Lexicon.\n\n
+<b>Programming Languages for Al Research:</b> Historical Overview, Features of Al
+Programming Languages, Major Al Programming Languages LISP, PROLOG,
+Implementation of AI Algorithms Through PROLOG.\n\n
+    </string>
+
+    <string name="cse_4100">
+        Study of Problems in the Field of Computer Science and Engineering.
+N.B. The Project/Thesis Topic Selected in this Course is to be continued in the CSE 4000
+Course.\n\n
+    </string>
+
+    <string name="cse_4101">
+        <b>Introduction to Compiler:</b> Compiler Structure, Analysis-Synthesis Model of Compilation,
+Various Phases of a Compiler, Tool based Approach to Compiler Construction, Complier Compliers and Translator Writing Systems.
+Lexical Analysis: Interface with Input, Parser and Symbol Table, Token, Lexeme and
+Patterns, Difficulties in Lexical Analysis, Error Reporting, Implementation, Regular
+Definition, Transition Diagrams, Lex.\n\n
+<b>Syntax Analysis:</b> CFGs, Ambiguity, Associativity, Precedence, Top Down Parsing,
+Recursive Descent Parsing, Transformation on the Grammars, Predictive Parsing, Bottom
+Up Parsing, Operator Precedence Grammars, LR Parsers (SLR, LALR, LR), YACC.
+Syntax Directed Definitions: Inherited and Synthesized Attributes, Dependency Graph,
+Evaluation Order, Bottom Up and Top Down Evaluation of Attributes, L- and S-Attributed
+Definitions.\n\n
+<b>Type Checking:</b> Type System, Type Expressions, Structural and Name Equivalence of
+Types, Type Conversion, Overloaded Functions and Operators, Polymorphic Functions.\n\n
+<b>Run Time System:</b> Storage Organization, Activation Tree, Activation Record, Parameter
+Passing, Symbol Table, Dynamic Storage Allocation, and Heap Storage Management.
+Intermediate Code Generation: Intermediate Representations, Translation of
+Declarations, Assignments, Control Flow, Boolean Expressions and Procedure Calls,
+Implementation Issues.\n\n
+<b>Code Generation and Instruction Selection:</b> Issues, Basic Blocks and Flow Graphs,
+Register Allocation, Code Generation, Dag Representation of Programs, Code Generation
+from Dags, Peep Hole Optimization, Code Generator Generators, Specifications of
+Machine.\n\n
+    </string>
+
+    <string name="cse_4103">
+        <b>Introduction:</b> Signals, Systems and Signal Processing, Classification of Signals, the
+Concept of Frequency in Continuous Time and Discrete Time Signals, Analog to Digital
+and Digital to Analog Conversion, Sampling and Quantization.\n\n
+<b>Discrete Time Signals and Systems:</b> Discrete Time Signals, Discrete Time Systems,
+Analysis of Discrete Time Linear Time Invariant Systems. Discrete Time Systems
+Described by Difference Equations, Implementation of Discrete Time Systems, Correlation
+and Convolution of Discrete Time Signals.\n\n
+<b>The Z-Transform:</b> Introduction, Definition of the Z-Transform, Z-Transform and ROC of
+Infinite Duration Sequence, Properties of Z-Transform Inversion of the Z-Transform, the
+One-Sided Z-Transform.\n\n
+<b>Frequency Analysis of Signals and Systems:</b> Frequency Analysis of Continuous Time
+Signals, Frequency Analysis of Discrete Time Signals, Properties of Fourier Transform of
+Discrete Time Signals, Frequency Domain Characteristics of Linear Time Invariant
+System, Linear Time Invariant Systems as Frequency Selective Filters, Inverse Systems
+and De-convolution.\n\n
+<b>Discrete Fourier Transform (DFT):</b> Discrete Fourier Series (DFS), Properties of DFS,
+Discrete Fourier Transformation (DFT), Properties and Application of DFT.\n\n
+<b>Fast Fourier Transform Algorithms:</b> FFT Algorithms, Applications of FFT Algorithm.
+Digital Filter Design Techniques: Differential and Difference Equations, Digital Transfer
+Functions, Frequency Response, Digital Filter Realization Scheme, Finite Impulse
+Response (FIR) Infinite Impulse Response (IIR) Filter Design.\n\n
+<b>Application of DSP: </b>Speech Processing, Analysis and Coding, Matlab Application to
+DSP.\n\n
+    </string>
+
+    <string name="cse_4105">
+        <b>Digital Image Fundamentals:</b> Different Types of Digital Images, Sampling and
+Quantization, Imaging Geometry, Image Acquisition Systems. \n\n
+        <b>Bi-level Image Processing:</b> Basic Concepts of Digital Distances, Distance Transform,
+Medial Axis Transform, Component Labeling, Thinning, Morphological Processing,
+Extension to Grey Scale Morphology. \n\n
+<b>Binarization of Grey Level Images:</b> Histogram of Grey Level Images, Optimal
+Thresholding using Bayesian Classification, Multilevel Thresholding.\n\n
+<b>Detection of Edges :</b> First Order and Second Order Edge Operators, Multi-Scale Edge
+Detection, Cannys Edge Detection Algorithm, Hough Transform for Detecting Lines and
+Curves, Edge Linking. \n\n
+<b>Images Enhancement:</b> Point Processing, Spatial Filtering, Frequency Domain Filtering,
+Multi-Spectral Image Enhancement, Image Restoration.\n\n
+<b>Image Segmentation:</b> Segmentation of Grey Level Images, Water Shade Algorithm for
+Segmenting Grey Level Image. Image Representation and Description, Recognition and
+Interpretation.\n\n
+<b>Image Compression:</b> Lossy and Lossless Compression Schemes, Prediction based
+Compression Schemes, Vector Quantization, Sub-Band Encoding Schemes, JPEG
+Compression Standard, Fractal Compression Scheme, Wavelet Compression Scheme.\n\n
+
+    </string>
+
+    <string name="cse_4107">
+        <b>Application Development Policy and Strategies:</b> Planning of Information System,
+Policy in Information System Development, Strategies for Achieving Information System
+Goals.\n\n
+<b>Application System Development Life Cycle:</b> Phases in Application System
+Development, Interrelationship among Each Phase.\n\n
+<b>Feasibility Assessment:</b> Problems and Needs in Information System Development,
+Preliminary Application Requirements Determination, Feasibility Assessment: Economic,
+Technical, Operational and Schedule Feasibility.\n\n
+<b>Information Requirements Determination:</b> Strategies for Obtaining Information
+Requirements, Technique for Information Requirements Determination, Methods for
+Providing Assurance that Requirement are Correct and Complete. \n\n
+<b>Structured Systems Analysis:</b> Steps in Structured Systems Analysis, Activity Diagrams
+and Related Documentation, Data Dictionary, Problem Analysis, Structured Walk
+Through. \n\n
+<b>Systems Design Methodology:</b> Check List Methodology, Process-Oriented
+Methodology, Application Generator, Structured Design, Program Development and
+Testing: Structured Programming and Method for Testing.\n\n
+
+    </string>
+
+    <string name="cse_4109">
+        <b>Introduction:</b> Introduction to Unix Programming.
+Unix Environment: Command Line, Globbing, I/O Redirection, Piping, Basic Commands,
+Memory Layout.\n\n
+<b>Debugging:</b> GDB, Valgrind, Essential X86, Fork, Exec, Wait, Process Status, Bit
+Manipulation, Sending Signals Unix I/O Implementing I/O Redirection, Piping Directories
+and Files. Walking a Directory Tree, Exploring Attributes. Implementing Ls-L. Permissions,
+File Owner / Group, Time-Stamps. Signals and Signal Handling Design / Implementation
+of Sleep Process Relationships Backgrounding. Popen / Pclose Midterm Terminal
+Handling Review Midterm Networking Client / Server. I/O Multiplexing.\n\n
+<b>Multi-threading:</b> Basics, Mutual Exclusion Multi-Threading: Bounded Buffers, Condition
+Variables Multi-Threading: Deadlocks Non-Blocking I/O. Regular Expressions. Sys V IPC.
+Semaphores and Shared Memory. Shell Scripting.\n\n
+    </string>
+
+    <string name="cse_4111">
+        <b>System Design:</b> Designing I/O System; I/O Devices; Designing Microprocessor based
+System with Interfacing Chips.\n\n
+<b>Programmable Design:</b> Programmable Peripheral Interface (Interface to A/D and D/A
+Converter); Keyboard/Display Interface; Programmable Timer; Programmable Interrupt
+Controller, DMA Controller.\n\n
+<b>Memory Design:</b> Design using MSI and LSI Components; Design of Memory Subsystem
+using SRAM and DRAM.\n\n
+<b>Design of Various Components of a Computer:</b> ALU, Memory and Control Unit,
+Hardwired and Micro Programmed; Microprocessor based Designs; Computer BUS
+Standards; Design Special Purpose Controllers.\n\n
+    </string>
+
+    <string name="cse_4113">
+        <b>Simulation Modeling Basics:</b> Systems, Models and Simulation; Classification of
+Simulation Models; Steps in a Simulation Study.\n\n
+<b>Concepts in Discrete-Event Simulation:</b> Event-Scheduling vs. Process-Interaction
+Approaches, Time-Advance Mechanism, Organization of a Discrete-Event Simulation
+Model; Continuous Simulation Models; Combined Discreet-continuous models; Monte
+Carlo Simulation; Simulation of Queuing Systems.\n\n
+<b>Building Valid and Credible Simulation Models:</b> Validation Principles and Techniques,
+Statistical Procedures for Comparing Real-World Observations and Simulated Outputs,
+Input Modeling; Generating Random Numbers and Random Variates; Output Analysis.
+Simulation Languages; Analysis and Modeling of Some Practical Systems\n\n
+    </string>
+
+    <string name="cse_4115">
+        <b>Introduction to Wireless Networks:</b> Wireless Access Networks, Wireless Mesh
+Networks, Personal Area Networks (Wireless Sensor Networks, Body Area Networks,
+Lowpan, and Bluetooth), Wireless and Mobile Ad Hoc Networks, Challenged Networks
+(Dtns,Vanets).\n\n
+<b>Wireless MAC Protocols:</b> IEEE 802.11, IEEE 802.11e, IEEE 802.11n, IEEE 802.11s,
+IEEE 802.15.4, S-MAC, B-MAC, IEEE 802.22/20, IEEE 802.16d/e.\n\n
+<b>Wireless Routing:</b> Routing Matrix – ETX, ETT, WCETT, Air Time Metric, Routing
+Protocols – AODV, DSR, DSDV, HWMP, Sensor Network Routing, VANET Routing etc.\n\n
+<b>Others:</b> Wireless Transport Protocols; Wireless TCP and its Variants, Hop by Hop
+Congestion Control, Rate based Congestion Control etc. Quality of Service in Wireless
+Networks.\n\n
+    </string>
+
+    <string name="cse_4117">
+        <b>Multithreaded Computing:</b> Basic Concepts: Processes, Threads, Scheduling,
+Multithreaded Programming, Thread Synchronization: Semaphores, Locks, Monitors,
+Concurrency Issues: Deadlock, Starvation , Multi-Core Computers.\n\n
+<b>Networked Computers:</b> Basic Concepts: Client-Server, Connections, Datagrams,
+Application Protocol Design, Client-Side Socket Programming, Server-Side Socket
+Programming, Datagram Programming.\n\n
+        <b>Network Protocols and Security:</b> Physical/Data Link/Network/Transport/Application
+Layers, Network Security.\n\n
+<b>Distributed Systems:</b> Architectures: Two-Tier, Multi-Tier, Peer-To-Peer, Many-To-Many,
+Middleware: Distributed Objects, Web Services.\n\n
+<b>Parallel Computing:</b> Architectures: SMP, Cluster, Hybrid, Grid, GPGPU ,Middleware:
+Openmp, MPI, Grid Middleware.\n\n
+    </string>
+
+    <string name="cse_4119">
+        <b>Process and Model:</b> Introduction to Human-Computer Interaction (HCI), Human
+Information Processing Systems, Models of Interaction, Approaches to HCI, User
+Interface, HCI in Software Process, Cognitive Models.\n\n
+<b>Issues and Requirements:</b> Socio-organizational Issues and Stakeholders Requirements,
+Communication and Collaboration Models, Task Analysis, Dialog Notation and Design,
+Groupware, CSCW and Social Issues. \n\n
+<b>User System Interaction:</b> Analysis and Design, User Interface Design, Interface
+Technique and Technology, Case Studies.\n\n
+    </string>
+
+    <string name="cse_4121">
+        <b>Evolution of Switching Systems:</b> The Role of Switching Systems in Telecommunication
+Networks, Step by Step and Crossbar, Stored Program Control (SPC), Digital Switching,
+ATM Switching.\n\n
+<b>Switching System Architecture:</b> Subscriber and Line Interface, Switching Network:
+Matrix and Channel Graph Representations, Blocking, Non-Blocking, and Rearrangeable
+Networks, Control Unit, Operation and Maintenance, Switching Process: Call Detecting,
+Number Analysis, Call Routing, Supervision, and Metering, Signaling Equipment.\n\n
+
+<b>Hardware and Software Structure of the Digital Switch:</b> Time Switches and Space
+Switches, Path Searching, Processor Systems Architecture and Functions, Reliability and
+Fault Recovery, Man Machine Interface (MMI), Examples of the Present Digital Switching
+Systems.\n\n
+    </string>
+
+    <string name="cse_4123">
+        <b>Introduction to Control System:</b> Conventional Control System, Steady State Response
+to Step, Ramp, and Parabolic Inputs, Transient Response, Poles and Zeros, Frequency
+Response from Pole-Zero Diagram, Routh‟s Stability Criterion; Block Diagrams,
+Canonical Forms, Transfer Functions and Signal Flow Graph, Root Locus, Frequency
+Response, Nyquist‟s Stability Criterion. \n\n
+<b>Modern Control System:</b> Introduction, State Variable Analysis, Controllability and
+Observability, Application of Eigen Value, Linear Control System Design by State
+Feedback. \n\n
+<b>Controller Design:</b> On-Off, Fuzzy, P, PI, PD and PID Types, Introduction to
+Programmable Logic Controllers (PLC), Temperature Control System, Position Control
+System.\n\n
+    </string>
+
+    <string name="cse_4201">
+        <b>Introduction:</b> History, Application of Computer Graphics (Computer Aided Design
+Animation), a Survey of Graphics I/O Devices and Types.\n\n
+        <b>Graphics Software Design:</b> Survey of Desired Function, Toward a Universal Graphic
+Language. Display Files, Databases for Pictorial Applications.\n\n
+<b>Graphics Techniques:</b> Point-Plotting Techniques, Line Drawing, Geometric
+Transformations, Windowing and Clipping, Raster Graphics.\n\n
+<b>Hardware for Computer Graphics:</b> Typical Small and Large System, Graphic Terminals,
+Plotters, Graphic Display Processors, Device Independent Graphics Systems.\n\n
+<b>Graphics Software:</b> A Simple Graphic Package, Segmented Display Files, Geometric
+Models, Picture Structure.\n\n
+<b>Interactive Graphics:</b> Input Techniques, Event Handling, Three-Dimensional Graphics,
+Curves and Surfaces, 3-D Transformation. \n\n
+<b>Hidden Surface Problem:</b> Back Face Removal, Hidden-Line Removal Curved Surfaces,
+Describing Points, Lines and Polygons, Some Hints for Building Polygonal Models, Color
+Perception, RGBA and Color Index Mode, Dithering, Blending, 3-D Blending with the
+Depth Buffer, Antialiasing, Fog, Fog Equations, the OpenGL ARB.\n\n
+<b>API Specifies:</b> Data Types, Function Naming Conventions, Platform Independence,
+Drawing Shapes with OpenGL, Animation with OpenGL and GLUT.\n\n
+<b>Drawing in Space:</b> Lines, Points and Polygons. \n
+<b>Co-ordinate Transformations:</b> Understanding Transformations, Matrix Munching
+Projections, Matrix Manipulation Color Lighting and Materials, Texture Mapping.\n\n
+    </string>
+
+    <string name="cse_4203">
+        <b>Introductory Concept:</b> Introduction Human Brain Mechanism, Neural Machine
+Intelligence.\n\n
+<b>Fundamental Concept of Neural Network:</b> Basic Models of Artificial Neuron, Activation
+Function, Network Architecture, Neural Network Viewed as Directed Graph, Basic
+Learning Rules, Overview of Perceptrons, Single Layer of Perceptrons, Mathematical
+Model of Single Layer Perceptrons, Perceptrons Learning Algorithm, Delta Learning Rule,Multi-Layer Perceptrons, Back Propagation Learning Algorithm, Mathematical Model of
+MLP Network.\n\n
+<b>Function Approximation:</b> Basis Function Network, Radial Basis Function Networks
+(RBF), MLP vs. RBF Networks, Support Vector Machine (SVM).\n\n
+<b>Competitive Network and Associative Memory Network:</b> Adaptive Resonance Theory
+(ART), ART-1 Architecture and Algorithm, Kohonen Self-Organizing Maps (SOMs), Linear
+Feed-Forward Associative Memory Network, Recurrent Associative Memory Network,
+Bidirectional Associative Memory Network (BAM), Hopfield Networks. \n\n
+<b>Fuzzy System:</b> Introduction to Fuzzy System, Fuzzy Relations, Fuzzy Numbers,
+Linguistic Description and their Analytical Form, Fuzzy Control. \n\n
+<b>Defuzzification:</b> Defuzzification Methods, Centroid Method, Center of Sum Method, Mean
+of Maxima Defuzzification, Applications, Equilibrium of Learning System, Concept of
+Neuro-Fuzzy and Neuro-GA Network.\n\n
+<b>Genetic Algorithm:</b> Basic Concepts, Offspring, Encoding, Reproduction, Crossover,
+Mutation Operator, Application of GA.\n\n
+    </string>
+
+    <string name="cse_4207">
+        <b>VLSI Design Methodology:</b> Top-Down Design Approach, Technology Trends.\n\n
+<b>MOS Technology:</b> Introduction to Microelectronics and MOS Technology, Basic Electrical
+Properties and Circuit Design Processes of MOS and Bi CMOS Circuits,, MOS, NMOS,
+CMOS Inverters, Pass Transistor and Pass Gates, DC and Transient Characteristics.
+        Overview of Fabrication Process: NMOS, PMOS, CMOS, Bi-CMOS Process.\n\n
+<b>NMOS and CMOS Layout:</b> Color Plate Stick Diagram, and Design Rules.
+CMOS Circuit Characteristics: Resistance and Capacitance, Rise and Fall Time, Power
+Estimation. \n\n
+<b>Introduction to Bi-CMOS Circuits:</b> Shifter, an ALU Sub-System, Adder, Counter,
+Multipliers, Multiplexer, Data Path And Memory Structures, Buffer Circuit Design, DCVS
+Logic. \n\n
+<b>Design and Test-Ability:</b> Circuit Partitioning, Floor Planning and Placement, Routing,
+Practical Aspects of Design Tools and Test-Ability MOS Design, Behavioral Description,
+Structural Description, Physical Description and Design Verification.\n\n
+
+    </string>
+
+    <string name="cse_4209">
+        <b>Introduction:</b> History of Computer Hardware, Software, Networking; Overview of
+Technological Change; Impact of Information Technology on Some Sectors.\n\n
+<b>Privacy and Personal Information:</b> Personal Privacy, Computer Technology Effect
+Privacy, Moral Problems from Privacy Violation, Privacy Protection: Ethical and Legal
+Basis, Technological Strategies, Implications of Database Systems.
+Freedom of Expression in Cyberspace: Offensive Speech and Censorship in
+Cyberspace, Pornography, Anonymity, Spam.\n\n
+<b>Computer and Software Reliability</b>: Liability in Hardware and Software Failure,
+Responsibility s. Liability vs. Accountability, Historical Software Risks (such as the Therac-25 Case).
+Intellectual Property: Intellectual Property, Copyrights, Patents, and Trade Secrets,
+Software Piracy, Software Patents, Pirated Software, Use of Licensed Software.\n\n
+<b>Computer Crime:</b> History and Examples of Computer Crime; “Cracking” (“Hacking”) and
+its Effects; Viruses, Worms, and Trojan Horses; Online Scams, Identity Theft; Moral
+Issues Related to These Crimes.\n\n
+<b>Computer and Work:</b> Impact of Employment, Work Environment, Employee Monitoring,
+Health Issues.\n\n
+<b>Professional Ethics and Responsibilities:</b> Ethics, Computer Ethics, Ethical Guidelines
+for Computer Professionals, Examine and Discuss Professional Codes of Ethics, Conduct,
+and Practice (IEEE, ACM, SE, AITP, and so forth). \n\n
+    </string>
+
+    <string name="cse_4211">
+        <b>Introduction:</b> Network components, Theoretical Network, Real World Networks.
+Network Architectural Design: Designing the LAN, Configuring the Network Server and
+Client, Network Administration, Remote Access, Expanding the Network, Wide Area
+Network Troubleshooting, Major Protocol Suites.\n\n
+<b>Network Simulation:</b> Network Simulation and Optimization, Network Operations, Control
+and Maintenance, Network Administration, Network Management Database and Tools,
+Capacity Planning.\n\n
+<b>Network Optimization:</b> Network Security and Integrity, Linear Programming and Network
+Algorithms for Planning, Reliability Theory and Network Planning.\n\n
+    </string>
+
+    <string name="cse_4213">
+       <b>Introduction:</b> Key Concepts of Knowledge Representation and Reasoning, Language of
+First Order Logic, Syntax, Semantics Pragmatics, Expressing Knowledge, Levels of
+Representation, Knowledge Acquisition and Sharing, Sharing Ontologies, Language
+Ontologies, Language Patterns, Tools for Knowledge Acquisition.\n\n
+<b>Resolution and Reasoning:</b> Proportional Case, Handling Variables and Qualifies,
+Dealing with Intractability, Reasoning with Horn Clauses, Procedural Control of
+Reasoning, Rules in Production, Description Logic, Vivid Knowledge, Beyond Vivid.\n\n
+<b>Representation:</b> Object Oriented Representations, Frame Formalism, Structured
+Descriptions, Meaning and Entailment, Taxonomies and Classification, Inheritance,
+Networks, Strategies for Defensible Inheritance, Formal Account of Inheritance Networks.
+Defaults, Uncertainty and Expressiveness: Closed World Reasoning, Circumscription,
+Default Logic Limitations of Logic, Fuzzy Logic, Non-monotonic Logic, Theories and
+World, Semiotics, Auto epistemic Logic, Vagueness, Uncertainty and Degrees of Belief,
+Noncategorical Reasoning, Objective and Subjective Probability.\n\n
+<b>Actions and Planning:</b> Explanation and Diagnosis, Syntax, Semantics of Context, First
+Order Reasoning, Modal Reasoning in Context, Encapsulating Objects in Context, Agents,
+Actions, Situational Calculus, Frame Problem, Complex Actions, Planning,
+Strips – Planning as Reasoning – Hierarchical and Conditional Planning.\n\n
+    </string>
+
+    <string name="cse_4215">
+        <b>Introduction:</b> Network Security Policies, Strategies and Guidelines; Network Security
+Assessments and Matrices.\n\n
+<b>Different Attacks:</b> Denial of Service (Dos) Attack, Distributed Denial of Service (Ddos)
+Attack, Eavesdropping, IP Spoofing, Sybil Attack, Blackhole Attack, Grayhole Attack, Man-In-The-Middle Attack, Passwords-based Offline Attacks.
+Network Security Threats and Attackers: Intruders, Malicious Software, Viruses and
+Spy-Ware; Security Standards: DES, RSA, DHA, Digital Signature Algorithm (DSA), SHA,
+AES; Security At Transport Layer: Secure Socket Layer (SSL) and Transport Layer
+Security (TLS).\n\n
+<b>Security on Network Layer:</b> Ipsec; Network Security Applications: AAA Standards, E-Mail Securities, PGP, S/MIME; PKI Smart Cards; Sandboxing; Firewalls and Proxy Server;\n\n
+<b>Security for Wireless Network Protocols:</b> WEP, WPA, TKIP, EAP, LEAP; Security
+Protocols for Ad-Hoc Network; Security Protocols for Sensor Network; Security for
+Communication Protocols; Security for Operating System and Mobile Agents; Security for
+E-Commerce; Security for LAN and WAN; Switching and Routing Security; other State-Of-The-Art Related Topics.\n\n
+    </string>
+
+    <string name="cse_4217">
+        <b>Introduction to Decision Support System:</b> DSS Characteristics, Applications of
+Decision Support Systems, Capabilities of Decision Support Systems, Components of
+Decision Support Systems, Benefits of using DSS Systems.\n\n
+<b>Making Decisions in the Decision Support Systems Environment:</b> Activities in the
+Decision Support Systems Environment, the Decision Making Process, Information Use
+for Strategic Management, Making Decisions in the Decision Support Systems.\n\n
+        <b>Environment:</b> Strategic Analysis for the Organization, Types of Problems in the Decision
+Making Process.\n\n
+<b>Developing Decision Support System:</b> Approaches to DSS Development, DSS
+Software Tools, DSS Hardware and Operating System Platforms, Building and
+Implementing Decision Support Systems. Decision Support Systems in Detail: Types of
+Decision Support Systems, DSS Models, Data Mining, Group Decision, Support Systems,
+Executive Information Systems (EIS). Artificial Intelligence and Expert Systems, Systems
+Integration and the Future of DSS: Brainstorming.\n\n
+    </string>
+
+    <string name="cse_4219">
+        <b>introduction:</b> Introduction to Computer Vision, Case Study-Face Recognition, Linear
+Algebra/Probability Review. \n\n
+<b>Image Structure:</b> Linear Filters, Finding Lines-From Detection to Model Fitting, Clustering
+and Segmentation.\n\n
+<b>Camera Models:</b> Camera Models, Camera Calibration, Epipolar Geometry, Stereo and
+Multi-view Reconstruction.\n\n
+<b>Recognition (Building blocks):</b> Detectors and Descriptors, SIFT and Single Object
+Recognition, Optical Flow and Tracking.\n\n
+<b>Recognition (Objects, Scenes, and Activities):</b> Introduction to Object Recognition and
+Bag-of-Words Models, Object Classification and Detection- A Part-based Generative
+Model (Constellation Model), Object Classification and Detection: A Part-Based
+Discriminative Model (Latent SVM), Human Motion Recognition.\n\n
+        <b>Computer Vision:</b> State-of-the-art and the Future.\n\n
+    </string>
+
+    <string name="cse_4221">
+     <b>Data Mining and Applications:</b> Relational Databases, Data Warehouses, Transactional
+Databases, Advanced Data and Information Systems, Characterization and
+Discrimination, Mining Frequent Patterns, Associations, and Correlations, Classification
+and Prediction, Cluster Analysis, Outlier Analysis, Evolution Analysis.\n\n
+<b>Data Preprocessing:</b> Descriptive Data Summarization, Data Cleaning, Data Integration
+and Transformation, Data Reduction, Data Discretization and Concept Hierarchy
+Generation.\n\n
+<b>Classification, Clustering and Prediction:</b> Classification by Decision Tree Induction,
+Bayesian Classification, Rule-Based Classification, Classification by Backpropagation,
+Support Vector Machines, Clustering by Partitioning/ Hierarchical/ Density-based/ Grid-based/ Model-based Methods, Clustering High-Dimensional Data, Outlier Analysis,
+Prediction, Linear Regression, Nonlinear Regression, Other Regression-Based Methods
+of Prediction, Evaluating the Accuracy and Error Measures of a Classifier or Predictor.\n\n
+<b>Web Mining:</b> Anatomy of a Search Engine, Crawling the Web, Web Graph Analysis,
+Extracting Structured Data from the Web, Classification and Vertical Search, Web Log
+Analysis.\n\n
+<b>Advanced Analysis:</b> Mining Stream, Time-Series, and Sequence Data, Graph Mining,
+Social Network Analysis, and Multirelational data Mining, Mining Object, Spatial,
+Multimedia, and Text Data.\n\n
+ </string>
+
+</resources>

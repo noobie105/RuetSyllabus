@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/blue_back"
+    tools:context=".MeFaculty">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Choose Your Department"
+        android:textSize="25sp"
+        android:textColor="@color/black"
+        android:layout_marginTop="50dp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="50dp"
+        android:layout_centerHorizontal="true"
+        android:textStyle="bold"
+        />
+
+
+    <Button
+        android:id="@+id/me"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"
+        android:text="Mechanical Engineering"
+        android:textAllCaps="false"
+        android:textStyle="bold"
+        />
+    <Button
+        android:id="@+id/ipe"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="150dp"
+        android:text="Industrial and Production Engineering"
+        android:textAllCaps="false"
+        android:textStyle="bold"
+        />
+    <Button
+        android:id="@+id/gce"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="200dp"
+        android:text="Glass and Ceramic Engineering"
+        android:textAllCaps="false"
+        android:textStyle="bold"
+        />
+    <Button
+        android:id="@+id/mte"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="250dp"
+        android:text="Mechatronics Engineering"
+        android:textAllCaps="false"
+        android:textStyle="bold"
+        />
+
+    <Button
+        android:id="@+id/mse"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="300dp"
+        android:text="Materials Science and Engineering"
+        android:textAllCaps="false"
+        android:textStyle="bold"
+        />
+    <Button
+        android:id="@+id/cfpe"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="350dp"
+        android:text="Chemical and Food Process Engineering"
+        android:textAllCaps="false"
+        android:textStyle="bold"
+        />
+
+</RelativeLayout>

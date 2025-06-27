@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:fillViewport="true"
+    tools:context=".cse11">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textAllCaps="false"
+            android:textStyle="bold|italic"
+            android:text="CSE 1100\nComputer Fundamental and Ethics\nContact hours/week: 3\nCredits: 1.50\n"
+            android:textColor="@color/black"
+        />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/cse_1200"
+            android:textStyle="normal"
+            android:textSize="12sp"
+            android:textColor="@color/black"
+            android:textAllCaps="false"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textAllCaps="false"
+            android:textStyle="bold|italic"
+            android:text="CSE 1101\nComputer Programming\nContact hours/week: 3\nCredits: 1.50\n"
+            android:textColor="@color/black"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/cse_1101"
+            android:textStyle="normal"
+            android:textSize="12sp"
+            android:textColor="@color/black"
+            android:textAllCaps="false"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textAllCaps="false"
+            android:textStyle="bold|italic"
+            android:text="CSE 1102\nSessional based on CSE 1101\nContact hours/week: 3\nCredits: 1.50\n"
+            android:textColor="@color/black"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sessional based on the theory course CSE 1101.\n\n"
+            android:textStyle="normal"
+            android:textSize="12sp"
+            android:textColor="@color/black"
+            android:textAllCaps="false"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textAllCaps="false"
+            android:textStyle="bold|italic"
+            android:text="EEE 1151\nBasic Electrical Engineering\nContact hours/week: 3\nCredits: 1.50\n"
+            android:textColor="@color/black"
+            />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/eee_1151"
+            android:textStyle="normal"
+            android:textSize="12sp"
+            android:textColor="@color/black"
+            android:textAllCaps="false"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textAllCaps="false"
+            android:textStyle="bold|italic"
+            android:text="EEE 1152\nSessional based on EEE 1151\nContact hours/week: 3/2\nCredits: 0.75\n"
+            android:textColor="@color/black"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sessional based on the theory course EEE 1151.\n\n"
+            android:textStyle="normal"
+            android:textSize="12sp"
+            android:textColor="@color/black"
+            android:textAllCaps="false"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textAllCaps="false"
+            android:textStyle="bold|italic"
+            android:text="Math 1113\nDifferential and Integral Calculus \nContact hours/week: 3\nCredits: 1.5\n"
+            android:textColor="@color/black"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/math_1113"
+            android:textStyle="normal"
+            android:textSize="12sp"
+            android:textColor="@color/black"
+            android:textAllCaps="false"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textAllCaps="false"
+            android:textStyle="bold|italic"
+            android:text="Hum 1113\nFunctional English\nContact hours/week: 3\nCredits: 1.5\n"
+            android:textColor="@color/black"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/hum_1113"
+            android:textStyle="normal"
+            android:textSize="12sp"
+            android:textColor="@color/black"
+            android:textAllCaps="false"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textAllCaps="false"
+            android:textStyle="bold|italic"
+            android:text="Hum 1114\nEnglish Language Lab\nContact hours/week: 3\nCredits: 1.5\n"
+            android:textColor="@color/black"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/hum_1114"
+            android:textStyle="normal"
+            android:textSize="12sp"
+            android:textColor="@color/black"
+            android:textAllCaps="false"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textAllCaps="false"
+            android:textStyle="bold|italic"
+            android:text="Chem 1113\nInorganic and Physical Chemistry\nContact hours/week: 3\nCredits: 1.5\n"
+            android:textColor="@color/black"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/chem_1113"
+            android:textStyle="normal"
+            android:textSize="12sp"
+            android:textColor="@color/black"
+            android:textAllCaps="false"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textAllCaps="false"
+            android:textStyle="bold|italic"
+            android:text="Chem 1114\nSessional based on Chem 1114\nContact hours/week: 3/2\nCredits: 0.75\n"
+            android:textColor="@color/black"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sessional based on the theory course Chemistry 1114.\n\n"
+            android:textStyle="normal"
+            android:textSize="12sp"
+            android:textColor="@color/black"
+            android:textAllCaps="false"
+            />
+
+    </LinearLayout>
+
+</ScrollView>
+

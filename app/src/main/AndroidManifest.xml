@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.ruetsyllabus">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/ruet_logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/ruet_logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.RUETSyllabus"
+        tools:targetApi="31">
+        <activity
+            android:name=".contact"
+            android:exported="false" />
+        <activity
+            android:name=".about"
+            android:exported="false" />
+        <activity
+            android:name=".cse42"
+            android:exported="false" />
+        <activity
+            android:name=".cse41"
+            android:exported="false" />
+        <activity
+            android:name=".cse32"
+            android:exported="false" />
+        <activity
+            android:name=".cse31"
+            android:exported="false" />
+        <activity
+            android:name=".cse22"
+            android:exported="false" />
+        <activity
+            android:name=".cse21"
+            android:exported="false" />
+        <activity
+            android:name=".cse12"
+            android:exported="false" />
+        <activity
+            android:name=".cse11"
+            android:exported="false" />
+        <activity
+            android:name=".cfpedept"
+            android:exported="false" />
+        <activity
+            android:name=".msedept"
+            android:exported="false" />
+        <activity
+            android:name=".mtedept"
+            android:exported="false" />
+        <activity
+            android:name=".gcedept"
+            android:exported="false" />
+        <activity
+            android:name=".ipedept"
+            android:exported="false" />
+        <activity
+            android:name=".medept"
+            android:exported="false" />
+        <activity
+            android:name=".becmdept"
+            android:exported="false" />
+        <activity
+            android:name=".archdept"
+            android:exported="false" />
+        <activity
+            android:name=".urpdept"
+            android:exported="false" />
+        <activity
+            android:name=".cedept"
+            android:exported="false" />
+        <activity
+            android:name=".ecedept"
+            android:exported="false" />
+        <activity
+            android:name=".etedept"
+            android:exported="false" />
+        <activity
+            android:name=".csedept"
+            android:exported="false" />
+        <activity
+            android:name=".eeedept"
+            android:exported="false" />
+        <activity
+            android:name=".MeFaculty"
+            android:exported="false" />
+        <activity
+            android:name=".CeFaculty"
+            android:exported="false" />
+        <activity
+            android:name=".EceFaculty"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/blue_back"
+    tools:context=".EceFaculty">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Choose Your Department"
+        android:textColor="@color/black"
+        android:textSize="25sp"
+        android:layout_marginTop="50dp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="50dp"
+        android:layout_centerHorizontal="true"
+        android:textStyle="bold"
+        />
+
+    <Button
+        android:id="@+id/cse"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"
+        android:text="Computer Science and Engineering"
+        android:textAllCaps="false"
+        android:textStyle="bold"
+        />
+
+    <Button
+        android:id="@+id/eee"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="150dp"
+        android:text="Electrical and Electronic Engineering"
+        android:textAllCaps="false"
+        android:textStyle="bold"
+        />
+    <Button
+        android:id="@+id/ete"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="200dp"
+        android:text="Electronics and Telecommunication Engineering"
+        android:textAllCaps="false"
+        android:textStyle="bold"
+        />
+    <Button
+        android:id="@+id/ece"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="260dp"
+        android:text="Electrical and Computer Engineering"
+        android:textAllCaps="false"
+        android:textStyle="bold"
+        />
+
+</RelativeLayout>
